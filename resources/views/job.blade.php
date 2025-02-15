@@ -9,3 +9,4 @@
         This job pays {{ $job['salary'] }} per year.
     </p>
 </x-layout>
+//
